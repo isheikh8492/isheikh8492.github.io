@@ -39,7 +39,7 @@ To configure a fresh copy, select **Settings → Pages → Build and deployment 
 3. Replace the template title, description, notice, and instructional text with accurate information about your completed work. Remove the `noindex` meta tag when the page is ready.
 4. Include the finished deliverable, an embed, or a working direct link. For downloadable files, use a relative location such as `assets/artifacts/filename.pdf` and commit the file.
 5. Complete the title, introduction, description, objective, process, tools and technologies, artifact-specific value proposition (unique value and relevance), and applicable references.
-6. Update one reserved card in `index.html`: replace its title, summary, and status, remove the decorative placeholder mark if you add a preview, and replace its footer with a real link. For example: `<a class="text-link" href="ai-timeline.html">View artifact →</a>`.
+6. Update one reserved card in `index.html`: replace its title, update or remove the pending status, add a concise summary of the completed work, and add a real link after the title or summary. Remove the decorative placeholder mark if you add a preview. For example: `<a class="text-link" href="ai-timeline.html">View artifact →</a>`.
 7. If you add more than five assigned artifacts, duplicate an article using the same structure.
 8. Test the artifact link without relying on a signed-in account. Do not link to a generic “Shared with me” page.
 
