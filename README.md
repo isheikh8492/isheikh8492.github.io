@@ -36,8 +36,10 @@ GitHub Pages publishes directly from **main → /(root)**. Commit updates to `ma
 
 ## Content maintenance
 
-The five initial cards are clearly labeled spaces for future projects. They do not represent completed work. Publish only actual experience and supported results. Preserve the approved bio and value statement unless revisions are explicitly requested.
+The five initial cards are clearly labeled spaces for future projects. They do not represent completed work. Publish only actual experience and supported results. Experience and Education are transcribed from the supplied résumé. Keep dates, titles, institutions, and results supported by the source résumé. The introduction is a consolidated value statement.
 
 ## Visual system
 
-Centered layout with Newsreader throughout and one warm off-white background. The bio remains left-aligned in two columns on desktop and one on phones. All homepage section headings share one scale. Navigation stays visible at every screen size.
+Centered layout with Newsreader throughout and one warm off-white background. The introduction is consolidated; separate Experience and Education sections hold the résumé details. Entries remain left-aligned at every screen size. All homepage section headings share one scale. Navigation stays visible at every screen size.
+
+Homepage order: Introduction → Areas of Focus → Experience → Projects → Education → Contact.
