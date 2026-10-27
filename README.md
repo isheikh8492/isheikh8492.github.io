@@ -7,6 +7,7 @@ A responsive software engineering portfolio featuring a professional bio, practi
 - `index.html`: homepage, bio, value statement, project spaces, and professional contact links.
 - `assets/styles.css`: desktop, mobile, reduced-motion, and print styles.
 - `assets/site.js`: the automatically updated footer year.
+- `assets/imaduddin-sheikh-resume.pdf`: supplied résumé, linked from Experience.
 - `artifact-template.html`: reusable project case-study template, kept at its existing URL and marked `noindex` until filled with real work.
 - `.nojekyll`: supports direct static publishing from the repository branch.
 
@@ -36,7 +37,7 @@ GitHub Pages publishes directly from **main → /(root)**. Commit updates to `ma
 
 ## Content maintenance
 
-The five initial cards are clearly labeled spaces for future projects. They do not represent completed work. Publish only actual experience and supported results. Experience and Education are transcribed from the supplied résumé. Keep dates, titles, institutions, and results supported by the source résumé. The introduction is a consolidated value statement.
+The five initial cards are clearly labeled spaces for future projects. They do not represent completed work. Publish only actual experience and supported results. Experience uses one-sentence summaries supported by the supplied résumé; Education retains its degree details. Keep dates, titles, institutions, and results supported by the source résumé. The introduction is a consolidated value statement.
 
 ## Visual system
 
