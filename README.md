@@ -41,6 +41,6 @@ The five initial cards are clearly labeled spaces for future projects. They do n
 
 ## Visual system
 
-Centered layout with Newsreader throughout and one warm off-white background. The introduction is consolidated; separate Experience and Education sections hold the résumé details. Entries remain left-aligned at every screen size. All homepage section headings share one scale. Navigation stays visible at every screen size.
+Newsreader throughout on one warm off-white surface. Centered navigation stays visible while scrolling, without repeating the name above the introduction. Employer groups show role progression; all approved role summaries remain unchanged. Projects use open rows, education uses two columns on desktop, and Contact uses large icons above smaller labels. The layout adapts to phone and tablet widths.
 
 Homepage order: Introduction → Areas of Focus → Experience → Projects → Education → Contact.
